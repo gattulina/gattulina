@@ -25,8 +25,12 @@ I'm from Argentina and I'm a Data Analyst pursuing a Master Degree in Data Scien
 
 
 <h3 align="left">My portfolio</h3>
+
 Power BI portfolio samples:
-* Bank Customer profiling  <a href="https://github.com/gattulina/Dashboards-samples/blob/main/Screen%20Shot%202022-09-03%20at%2020.04.01.png" target="blank">
+
+* Bank Customer profiling  
+<a 
+   href="https://github.com/gattulina/Dashboards-samples/blob/5a580e5ad82bcab5b331409f112e5e8963d931fa/Screen%20Shot%202022-09-03%20at%2020.04.01.png" target="blank"><img align="center" src="https://sof-life.com/wp-content/uploads/2021/05/PowerBI.jpg" alt="Power BI" height="20" /></a> 
 
 My faculty works:
 
