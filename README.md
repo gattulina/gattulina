@@ -25,6 +25,9 @@ I'm from Argentina and I'm a Data Analyst pursuing a Master Degree in Data Scien
 
 
 <h3 align="left">My portfolio</h3>
+Power BI portfolio samples:
+* Bank Customer profiling  <a href="https://github.com/gattulina/Dashboards-samples/blob/main/Screen%20Shot%202022-09-03%20at%2020.04.01.png" target="blank">
+
 My faculty works:
 
 * Exploratory Data Analysis, outliers and Mahalanobis distance
