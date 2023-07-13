@@ -1,16 +1,14 @@
 <h1 align="left">Hi 👋, I'm Luciana</h1>
 <h3 align="left">A passionate social scientist</h3>
-I'm from Argentina and I'm a Data Analyst pursuing a Master Degree in Data Science.
+I'm from Argentina and I'm a Data Analyst pursuing a Master's Degree in Data Science.
 
-* 📊 Freelance Data Analyst
+* 📊 Full time Data Analyst
 
 * 🌱 Data Science student at ITBA University. <a href="https://www.itba.edu.ar/wp-content/uploads/2021/08/ITBA-Especializacion-en-Ciencia-de-Datos.pdf" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/719613392382779392/UgqrF492_400x400.jpg" alt="ITBA" height="30" /></a>  
 
 * 🧩 I’m currently learning **Python and Machine Learning** <a href="https://kaggle.com/lugattuso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lugattuso" height="40" /></a>
 
 * 🎙️ **Podcaster** about IT careers. Follow me on <a href="https://instagram.com/ladyit__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ladyit__" height="30" width="40" /></a>
-
-* 👩🏻‍🏫 Part-time Spanish teacher for some English friends. 
 
 ## Skills
 * 🚀 Digital marketing analyst since 2017.
