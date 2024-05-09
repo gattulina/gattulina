@@ -1,14 +1,11 @@
 <h1 align="left">Hi 👋, I'm Luciana</h1>
 <h3 align="left">A passionate social scientist</h3>
-I'm from Argentina and I'm a Data Analyst pursuing a Master's Degree in Data Science.
+I'm from Argentina, living in Málaga.
 
 * 📊 Full time Data Analyst
+* Learning C at 42 School <a href="https://www.linkedin.com/showcase/42malaga-fundaciontelefonica/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/1200px-42_Logo.svg.png" alt="42" height="30" /></a> 
 
 * 🌱 Data Science student at ITBA University. <a href="https://www.itba.edu.ar/wp-content/uploads/2021/08/ITBA-Especializacion-en-Ciencia-de-Datos.pdf" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/719613392382779392/UgqrF492_400x400.jpg" alt="ITBA" height="30" /></a>  
-
-* 🧩 I’m currently learning **Python and Machine Learning** <a href="https://kaggle.com/lugattuso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lugattuso" height="40" /></a>
-
-* 🎙️ **Podcaster** about IT careers. Follow me on <a href="https://instagram.com/ladyit__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ladyit__" height="30" width="40" /></a>
 
 ## Skills
 * 🚀 Digital marketing analyst since 2017.
@@ -17,7 +14,7 @@ I'm from Argentina and I'm a Data Analyst pursuing a Master's Degree in Data Sci
 
 * 👯 People person.
 
-* 🎯 SQL, R, and DAX in Power BI. <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a><img src="https://cdn.holistics.io/landing/databases/bigquery.png" alt="Google Big Query" height="40"/></a><img src="https://sof-life.com/wp-content/uploads/2021/05/PowerBI.jpg" alt="Power BI" height="40"/> </a>
+* 🎯 SQL, Python, and Looker. <a href="https://cxl.com/wp-content/uploads/2019/10/google-bigquery-logo-1.png" target="_blank" rel="noreferrer"> <img src="https://cxl.com/wp-content/uploads/2019/10/google-bigquery-logo-1.png" alt="googlebigquery" width="40" height="40"/> </a><img src="https://www.accuranker.com/static/4b6ff180c18f1b81655710ecae4150cf/1721f/Looker_6f803d7fdc.png" alt="Looker" height="40"/></a><img src="https://www.actuia.com/wp-content/uploads/2022/01/logopython.png" alt="Python" height="40"/> </a>
 
 * 🤖 Passionate about innovation and new technologies. 
 
