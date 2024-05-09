@@ -1,29 +1,25 @@
 <h1 align="left">Hi 👋, I'm Luciana</h1>
 <h3 align="left">A passionate social scientist</h3>
-I'm from Argentina, living in Málaga.
 
-* 📊 Full time Data Analyst
-* Learning C at 42 School <a href="https://www.linkedin.com/showcase/42malaga-fundaciontelefonica/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/1200px-42_Logo.svg.png" alt="42" height="30" /></a> 
-
-* 🌱 Data Science student at ITBA University. <a href="https://www.itba.edu.ar/wp-content/uploads/2021/08/ITBA-Especializacion-en-Ciencia-de-Datos.pdf" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/719613392382779392/UgqrF492_400x400.jpg" alt="ITBA" height="30" /></a>  
+* I'm from Argentina, living in Málaga.
+* I'm passionate about innovation and new technologies.🤖 
+* Learning C at 42 School <a href="https://www.linkedin.com/showcase/42malaga-fundaciontelefonica/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS2NAGtlAgDehBnS7KFd34hVRF4edBXX0RmxeiuHi9Qw&s" alt="42" height="25" /></a> 
+* Studied Data Science at ITBA University. <a href="https://www.itba.edu.ar/eventos/wp-content/uploads/sites/5/2024/01/Folleto-especializacion-maetria-ciencia-datos-1.pdf" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/719613392382779392/UgqrF492_400x400.jpg" alt="ITBA" height="25" /></a>  
 
 ## Skills
-* 🚀 Digital marketing analyst since 2017.
 
 * 💬 Critical thinking and problem solving skills.
-
 * 👯 People person.
-
-* 🎯 SQL, Python, and Looker. <a href="https://cxl.com/wp-content/uploads/2019/10/google-bigquery-logo-1.png" target="_blank" rel="noreferrer"> <img src="https://cxl.com/wp-content/uploads/2019/10/google-bigquery-logo-1.png" alt="googlebigquery" width="40" height="40"/> </a><img src="https://www.accuranker.com/static/4b6ff180c18f1b81655710ecae4150cf/1721f/Looker_6f803d7fdc.png" alt="Looker" height="40"/></a><img src="https://www.actuia.com/wp-content/uploads/2022/01/logopython.png" alt="Python" height="40"/> </a>
-
-* 🤖 Passionate about innovation and new technologies. 
+* 🎯 SQL, Python, and Looker. <a href="https://cxl.com/wp-content/uploads/2019/10/google-bigquery-logo-1.png" target="_blank" rel="noreferrer"><img src="https://cxl.com/wp-content/uploads/2019/10/google-bigquery-logo-1.png" alt="googlebigquery" height="25"/></a><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIQPCpQBXpsVnmQ3wzdiB88zSEU89swLXEIUEOelmJng&s" alt="Looker" height="25"/></a><img src="https://www.actuia.com/wp-content/uploads/2022/01/logopython.png" alt="Python" height="25"/> </a>
 
 
 <h3 align="left">My portfolio</h3>
 
-Power BI portfolio samples:
+* Sentiment Analysis: TextBlob vs VADER. Using Womens' Clothing E-commerce Reviews  
+<a 
+   href="https://www.kaggle.com/code/lugattuso/sentiment-analysis-using-womens-clothing-e-co" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-8c3Dvi0VThoTbpJgrYRgJ2KE402wVLaw-yQHnaMUzQ&s" alt="kaggle" height="20"/></a> 
 
-* Bank Customer profiling  
+* Power BI - Bank Customer profiling  
 <a 
    href="https://github.com/gattulina/Dashboards-samples/blob/5a580e5ad82bcab5b331409f112e5e8963d931fa/Screen%20Shot%202022-09-03%20at%2020.04.01.png" target="blank"><img align="center" src="https://sof-life.com/wp-content/uploads/2021/05/PowerBI.jpg" alt="Power BI" height="20" /></a> 
 
